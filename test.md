@@ -11,3 +11,5 @@ how to branch:
 new branch 생성후 원격저장소에 연동시키려면,
 git push 원격저장소명 새브랜치명 해줘야함.
 ex) git push r sam
+
+- pull 요청은 어떻게보내지?
